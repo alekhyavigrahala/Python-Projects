@@ -1,5 +1,5 @@
 import random
-game_title = "Word Raider"
+game_title = "Verbal Quest"
 word_bank = []
 
 with open("D:\K L U\Projects\VerbalQuestProject\words_list.txt") as word_file:
