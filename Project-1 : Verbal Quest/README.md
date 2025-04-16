@@ -1,6 +1,6 @@
 Verbal Quest - Word Raider Game
 
-Verbal Quest - A Python Word Guessing Game Verbal Quest is a fun word guessing game made with Python. Your goal is to guess a hidden word by trying different 5-letter words. You’ll get clues to help you figure out the correct word!
+Verbal Quest is a fun word guessing game made with Python. Your goal is to guess a hidden word by trying different 5-letter words. You’ll get clues to help you figure out the correct word!
 
 How the Game Works:
 1. The game will tell you how many letters are in the word.
