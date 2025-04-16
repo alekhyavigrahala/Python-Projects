@@ -1,6 +1,6 @@
-Dance
-Speak
-Write
-Laugh
-Drive
-Paint
+dance
+speak
+write
+laugh
+drive
+paint
